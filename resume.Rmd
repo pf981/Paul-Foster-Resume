@@ -1,0 +1,112 @@
+---
+title: "Paul Foster"
+author: "Paul Foster"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: yes
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> paulfstr@gmail.com
+- <i class="fa fa-stack-overflow"></i> [stackoverflow.com/u/1751961](https://stackoverflow.com/users/1751961/paul)
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/paulfoster01](https://www.linkedin.com/in/paul-foster-20352a60/)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+ - Expert in R
+ 
+ - Python
+ 
+ - SQL
+ 
+ - Spark
+ 
+ - Tableau
+ 
+ - Machine learning
+ 
+ - A/B testing
+
+
+Main
+================================================================================
+
+Paul Foster {#title}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+Experience {data-icon=briefcase}
+--------------------------------------------------------------------------------
+
+### VGW
+
+Data Science Lead
+
+Sydney, NSW
+
+AUG 2018--Present
+
+### Freelancer.com
+
+Data Science Lead
+
+Sydney, NSW
+
+2017--AUG 2018
+
+### Freelancer.com
+
+Data Scientist
+
+Sydney, NSW
+
+<b>**AUG**</b> 2016--2017
+
+ - Worked in Freelancer’s Trust & Safety team dealing with fraud, spam, chargebacks, verifications and other trust-related components of the site.
+ - Created machine learning models for predicting spam, fraud and chargebacks. Responsible for the full process including live performance monitoring and the product decisions around how the  predictions should be actioned.
+ - Algorithms include random forest, GBM, GLMs and autoML.
+ - Seasonality analysis and revenue forecasting using Facebook’s Prophet tool.
+ - Created and maintained an internal R package for automatic database connecting, reconnecting and closing.
+ - Optimised Redshift queries to reduce ETL times
+ - Designed and analysed A/B tests to improve user funnels
+
+### Accenture
+
+Data Scientist
+
+Sydney, NSW
+
+2015--2016
+
+ - Worked at the largest oil and gas client in Australia as a data scientist. Advanced analytics was used to predict equipment failure and enable predictive process control.
+ - Applied advanced analytics techniques such as CART, Random Forest, GLMs, clustering, Markov Chain Models, feature selection, parameter optimisation and text mining to derive business value and support data driven decision making.
+ - Manipulated data into forms that facilitate rapid analysis, implementation and automation using PostgreSQL and command line tools on AWS S3 and Redshift.
+ - Migrated the existing codebase to Git, as well as trained the team in its use.
+ - Liaised with the client to gather requirements, develop hypotheses and create solutions.
+ - Interact with digital architects to develop solutions that enable live prediction of thousands of models under time and memory constraints.
+ - Developed visualisations to communicate insights using R, Tableu and Excel.
+
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### University of Wollongong
+
+Bachelor of Mathematics with Distinction<br />
+Bachelor of Computer Science with Distinction
+
+NSW
+
+2009--2013
+
+- Dean’s Merit List
+- Scholarships with Tibra Capital
