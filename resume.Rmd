@@ -4,7 +4,9 @@ author: "Paul Foster"
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    self_contained: yes
+    self_contained: true
+# uncomment below to produce HTML and PDF in RStudio
+# knit: pagedown::chrome_print
 ---
 
 Aside
@@ -53,7 +55,7 @@ Data Science Lead
 
 Sydney, NSW
 
-AUG 2018--Present
+AUG 2018 - Present
 
 ### Freelancer.com
 
@@ -61,7 +63,7 @@ Data Science Lead
 
 Sydney, NSW
 
-2017--AUG 2018
+2017 - AUG 2018
 
 ### Freelancer.com
 
@@ -69,7 +71,7 @@ Data Scientist
 
 Sydney, NSW
 
-2016--2017
+2016 - 2017
 
  - Payments, Trust & Safety team dealing with fraud, spam, chargebacks, and verifications
  - Created machine learning models for spam, fraud and chargeback
@@ -84,7 +86,7 @@ Data Scientist
 
 Sydney, NSW
 
-2015--2016
+2015 - 2016
 
  - Oil and gas
  - Predict equipment failure and enable predictive process control
@@ -99,7 +101,7 @@ Bachelor of Computer Science with Distinction
 
 NSW
 
-2009--2013
+2009 - 2013
 
 - Dean’s Merit List
 - Scholarships with Tibra Capital
