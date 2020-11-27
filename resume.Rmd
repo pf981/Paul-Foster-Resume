@@ -9,6 +9,12 @@ output:
 # knit: pagedown::chrome_print
 ---
 
+```{css, echo=FALSE}
+.date {
+  --decorator-horizontal-margin: 0;
+}
+```
+
 Aside
 ================================================================================
 
@@ -57,7 +63,7 @@ Sydney, NSW
 
 AUG 2018 - Present
 
-### Freelancer.com
+### Freelancer.com & Escrow.com
 
 Data Science Lead
 
@@ -90,6 +96,14 @@ Sydney, NSW
 
  - Oil and gas
  - Predict equipment failure and enable predictive process control
+
+### University of Wollongong
+
+Tutor
+
+NSW
+
+2013 - 2014
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
